@@ -13,6 +13,25 @@ You can download the latest version of the application from the following link:
 
 - [Download v1.0](https://github.com/Mimbex/jIotBox/releases/tag/1.0)
 
+## Installation and Execution
+
+- **Java**: Make sure Java is installed on your system.
+
+1. **Download the application**: Download the ZIP file from the release page and extract it to a directory of your choice.
+   
+2. **Choose the correct Version**: 
+   - If you are using `amd64` or `x86` folder.
+
+3. **Run the application**:
+   - Open **PowerShell** in administrator mode.
+   - Navigate to the directory where you extracted the application.
+   - Run the application with the following command:
+     ```bash
+     java -jar jIotBox.jar
+     ```
+   - If you encounter any messages or errors, close PowerShell, reopen it in administrator mode, navigate back to the directory, and run the command again.
+
+     
 ## Purchase Full Modules
 
 To unlock all features, you can purchase the full modules from the following links:
